@@ -1,0 +1,47 @@
+.wpfiles-progress {
+  position: relative !important;
+  float: none !important;
+  min-height: auto !important;
+  width: auto !important;
+  line-height: 0 !important;
+  padding: 4px 0px 4px 20px !important;
+  background-position-y: 2px !important;
+  margin: 0 !important;
+  margin-right: 5px !important;
+  background-size: 17px 17px !important;
+  visibility: visible !important;
+  vertical-align: initial !important;
+  display: inline !important;
+  color: #32373c !important;
+  cursor: default !important;
+}
+.wpfiles-stats-holder {
+  width: 100%;
+  margin-top: 12px;
+  font-size: 12px;
+  border-radius: 4px;
+  border-spacing: 0px;
+}
+.wpfiles-stats-holder thead {
+  background-color: #FFFFFF;
+}
+.wpfiles-stats-holder thead tr {
+  
+}
+.wpfiles-stats-holder thead tr th {
+  padding: 6px 4px;
+  border: solid 1px #dcdcde;
+}
+.wpfiles-stats-holder thead tr th:first-child {
+  border-right: 0px;
+}
+.wpfiles-stats-holder tr {
+}
+.wpfiles-stats-holder tr td {
+  padding: 6px 4px;
+  border: solid 1px #dcdcde;
+  border-top: 0px;
+}
+.wpfiles-stats-holder tr td:first-child {
+  border-right: 0px;;
+}

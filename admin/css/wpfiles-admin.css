@@ -1,0 +1,13 @@
+#wpbody {
+  visibility: hidden;
+  height: 0;
+  width: 0;
+}
+
+body {
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -o-user-drag: none;
+  user-drag: none;
+}
